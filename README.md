@@ -1,17 +1,40 @@
-# Survey Form – freeCodeCamp Project
+# 📝 Survey Form – Responsive Web Design Project
+**Mini Project / UI Documentation Project**
 
-This is a responsive survey form built using HTML and CSS. It's part of the freeCodeCamp Responsive Web Design Certification.
+## 🔍 Overview
+A responsive **survey form** created as part of the *freeCodeCamp Responsive Web Design Certification*.  
+This project demonstrates strong fundamentals in **HTML5 structure**, **form controls**, and **mobile-first responsive design**.
 
-## 🚀 Features
-- Semantic HTML5 elements
-- Form input fields (text, radio, checkbox, dropdown)
-- Mobile-first responsive layout
-- Clean and readable code structure
+---
 
-## 🌐 Live Demo
-https://nireesha0521.github.io/freeCodeCamp-SurveyForm/
+## ✨ Features
+- ✅ **Semantic HTML5:** Clean and accessible form structure.  
+- ✅ **Various Input Types:** Text, radio buttons, checkboxes, and dropdown fields.  
+- ✅ **Responsive Layout:** Works seamlessly across mobile, tablet, and desktop.  
+- ✅ **Clean Styling:** Organized CSS with consistent spacing and readability.  
 
-## 📚 Skills Used
-- HTML5
-- CSS3
-- Responsive Web Design
+---
+
+## 💻 Tech Stack
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Page structure and form elements |
+| **CSS3** | Styling and responsive design |
+
+---
+
+## 🚀 Live Demo
+🔗 [View Survey Form](https://nireesha0521.github.io/SurveyForm-ResponsiveWebDesign/)
+
+---
+
+## 🧩 Project Type
+**Mini Project / UI Design Project**  
+**Certification:** freeCodeCamp – Responsive Web Design  
+
+---
+
+## 📬 Contact
+**Developer:** Nireesha Addi  
+📧 Email: nireeshaaddi0216@gmail.com  
+🌐 GitHub: [github.com/Nireesha0521](https://github.com/Nireesha0521)
